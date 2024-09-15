@@ -78,14 +78,7 @@ SVM	0.87
 Naive Bayes	0.79
 Conclusion
 The Random Forest and Decision Tree models achieved the highest accuracy of 1.00 with both the 80-20 split and 10-fold cross-validation.
-Other models like KNN and SVM also performed well but didn't reach perfect accuracy.
-How to Run the Code
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/ABI0508/medical-diagnosis-ml.git
-Open the Jupyter notebook or Colab notebook from the link above.
+Other models like KNN and SVM also performed well but didn't reach perfect accuracy
 
 Run the code to see the models in action with the dataset.
 
